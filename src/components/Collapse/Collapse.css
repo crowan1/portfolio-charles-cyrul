@@ -1,0 +1,16 @@
+
+  
+  
+  
+  .icon:hover {
+    cursor: pointer;
+  }
+  
+  .icon.rotate {
+    transform: rotate(180deg);
+  }
+  
+  .dropdown-open-collapse {
+    margin-bottom: 20px;
+  }
+  

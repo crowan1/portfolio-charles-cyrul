@@ -1,0 +1,45 @@
+.footer-div-p {
+    color: white;
+    font-family: 'Montserrat';
+    font-weight: 500;
+}
+
+.footer-p {
+    display: flex;
+    justify-content: center;
+}
+
+footer {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: black;
+}
+
+.icon-github{
+    color: white;
+    font-size: 25px;
+}
+
+.icon-linkedin {
+    color: white;
+    font-size: 25px;
+}
+
+.footer-div-icon{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-bottom: 15px;
+}
+
+.icon-github:hover {
+    background-color: rgba(128, 128, 128, 0.8);
+    border-radius: 25px;
+    padding: 10px;
+}
+
+.icon-linkedin:hover {
+    background-color: rgba(128, 128, 128, 0.8);
+    border-radius: 25px;
+    padding: 10px;
+}
