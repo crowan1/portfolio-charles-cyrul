@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faC, faSliders } from '@fortawesome/free-solid-svg-icons'; // Import de l'icône sliders
+import { faC, faSliders } from '@fortawesome/free-solid-svg-icons';
 import './header.css';
 
 const Header = () => {

@@ -26,6 +26,20 @@ h2 {
     text-align: center;
 }
 
+.cv_charles{
+    margin: auto;
+text-decoration: none;
+border-radius: 25px;
+padding: 15px;
+width: fit-content;
+background-color: rgba(7, 38, 152, 0.492);
+color: white;
+}
+
+.cv_charles:hover {
+    text-decoration: underline;
+}
+
 @media screen and (max-width: 600px) {
     .zone-text-about{
         width: auto;

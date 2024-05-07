@@ -36,6 +36,10 @@ h1{
     justify-content: space-around;
 }
 
+.cv_charles {
+    color: black;
+}
+
 @media screen and (max-width : 880px ) {
     .img-moi{
         width: 200px;

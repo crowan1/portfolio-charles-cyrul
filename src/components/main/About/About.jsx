@@ -12,9 +12,11 @@ const About = () => {
                      Récemment diplômé en développement web, je me concentre sur le front-end et je suis particulièrement intéressé par l'expérience utilisateur et l'accessibilité.
                      <br /><br />
 
-Actuellement à la recherche d'une alternance pour mon bachelor full-stack, je suis motivé à continuer d'apprendre et de grandir dans ce domaine passionnant.
+Actuellement à la recherche d'une alternance pour mon bachelor full-stack, je suis motivé à continuer d'apprendre et de m'épanouir dans ce domaine passionnant.
 <br /><br />
 N'hésitez pas à me contacter si vous avez des opportunités intéressantes ou si vous souhaitez en savoir plus sur mon parcours !</p>
+<br /><br />
+<a href="src/assets/pdf/Charles Cyrul.pdf" download="Charles_Cyrul.pdf" className='cv_charles'> Télécharger mon CV </a>
             </div>
         </div>
     )

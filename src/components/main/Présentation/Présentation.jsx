@@ -16,7 +16,6 @@ function Présentation() {
             <div className='zone-img'>
                 <img className='img-moi' src={IMG} alt="Charles Cyrul" />
             </div> 
-          
         </div>
     );
 }
