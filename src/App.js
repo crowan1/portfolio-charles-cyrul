@@ -5,8 +5,9 @@ import Présentation from './components/main/Présentation/Présentation'
 import About from './components/main/About/About';
 import Skills from './components/main/Skills/Skills';
 import Projects from './components/main/Projects/Projects';
-import Contact from './components/main/Contact/Contact';
 import Footer from './components/main/Footer/Footer';
+import ContactMail from './components/main/ContactMail/ContactMail'
+
 
 function App() {
   return (
@@ -17,7 +18,7 @@ function App() {
       <About id="aboutSection" />
       <Skills id="skillsSection" />
       <Projects id="projectsSection" />
-      <Contact id="contactSection" />
+      <ContactMail/>
       <Footer/>
     </div>
   );
